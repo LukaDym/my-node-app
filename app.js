@@ -7,3 +7,4 @@ console.log("Seconde ligne de log");
 
 console.log(addtion(10,5));
 console.log(addtion(12,30));
+console.log(addtion(12,30));
